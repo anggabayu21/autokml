@@ -3,7 +3,7 @@ import os
 import urllib
 
 request_date = "20170914-20170918/"
-path_ = "/Volumes/BAYMAC/Users/anggabayu/Documents/Develop/workspace/REPOGIC/work/kmz_gsmap/"
+path_ = "/your_work_path/kmz_gsmap/"
 
 date_arr = ["20170914","20170915","20170916","20170917","20170918"]
 full_path = path_+request_date
