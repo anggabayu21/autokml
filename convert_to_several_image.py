@@ -1,7 +1,7 @@
 import glob
 import os
 
-path_ = "/Volumes/BAYMAC/Users/anggabayu/Documents/Develop/workspace/REPOGIC/work/kmz_gsmap/"
+path_ = "your_path_of/kmz_gsmap/"
 path_names_kmz = glob.glob(path_+"*.kmz")
 #print path_names_kmz
 maps = []
